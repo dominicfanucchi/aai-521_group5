@@ -5,14 +5,14 @@ This project is a part of the AAI-521 course in the Applied Artificial Intellige
 
 - ### Partner(s)/Contributor(s)
    * Dominic Fanucchi
-   * 
-   * 
+   * Jeevan Gullinkala
+   * Muhammad Haris
 
 ## Installation
 To use this project, first clone the repo on your device using the command below:
 ```bash
 git init
-git clone https://github.com/dominicfanucchi/aai-521_group.git
+git clone https://github.com/dominicfanucchi/aai-521_group5.git
 ```
 
 ## Project Objective
